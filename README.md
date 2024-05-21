@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arifa</h1>
 <h3 align="center">A design-driven software engineer passionate about innovation</h3>
 
-- 🔭 I’m currently working on [Threads](https://github.com/Arifa-B/threads)
+- 🔭 I’m currently working on [Bujo: Project Management App](https://github.com/Arifa-B/project-management-app)
 
 - 🌱 I’m currently learning **Generative AI**
 
